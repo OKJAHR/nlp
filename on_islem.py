@@ -83,5 +83,3 @@ def word2vec(value):
     bfr_list=sum(bfr_list)
     bfr_list=bfr_list/bfr_len
     return bfr_list.tolist()
-
-hey
